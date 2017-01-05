@@ -2,7 +2,7 @@
 *em breve, uma vez que ainda não há necessidade para isso*
 
 ## A
-Termo em inglês | Tradução | Uso | Referências
+Termo | Tradução | Uso | Referências
 --- | --- | --- | ---
 Active Record | *Active Record* | Em relação a tipos de objetos de programação que lidam com base de dados | Mantido em inglês uma vez que o termo já é usado dessa forma em diversas fontes, desde a Wikipedia a livros técnicos da área
 Advocate | Defensor | Em relação a quem propaga ideias de um certo assunto | Bastante usado em cargos de grandes empresas para funcionários que tem o trabalho de espalhar as ideias da empresa, geralmente conhecidos como *Developer Advocate*
@@ -20,7 +20,7 @@ Associative Array | Vetor Associativo | Em relação a tipos/estruturas de dados
 Axys | Eixo | Em relação a planos dimensionais | -
 
 ## B
-Termo em inglês | Tradução | Uso | Referências
+Termo | Tradução | Uso | Referências
 --- | --- | --- | ---
 Back-end | *Back-end* | Em relação a programação usada em servidores | Variação: *backend*
 Back-end | Painel Administrativo | Em relação à área administrativa de sistemas | -
@@ -43,7 +43,7 @@ Business Rule | Regra do Negócio | Em relação aos requesitos que um determina
 Bypass | Ignorar | Em relação a *hacking* ou declaração de programação que anula outra declaração | **Nota**: Muito usada em artigos sobre *hacking*, segurança, redes de computadores
 
 ## C
-Termo em inglês | Tradução | Uso | Referências
+Termo | Tradução | Uso | Referências
 --- | --- | --- | ---
 Colo(u)r Burn | Sobreposição de cor | Geralmente relacionado a fotografia, edição de imagens e colorização | [Photoshop Ajuda - Modos de Mesclagem](https://helpx.adobe.com/br/photoshop/using/blending-modes.html)
 
