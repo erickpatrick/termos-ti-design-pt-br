@@ -6,7 +6,7 @@ Como [a lista](termos.md) chegará a ficar grande o suficiente, foi tomada a dec
 
 Os termos estarão em ordem alfabética, inclusive dentro da própria sublista alfabética (letra inicial), e seguirão o formato a seguir:
 
-Termo em inglês | Tradução[1] | Uso[2] | Referências[3]
+Termo | Tradução[1] | Uso[2] | Referências[3]
 --- | --- | --- | ---
 Colo(u)r Burn | Sobreposição de cor | Geralmente relacionado a fotografia, edição de imagens e colorização | [Photoshop Ajuda - Modos de Mesclagem](https://helpx.adobe.com/br/photoshop/using/blending-modes.html)
 
