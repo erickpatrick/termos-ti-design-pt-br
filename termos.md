@@ -18,6 +18,10 @@ Aspect Ratio | Proporção | Em relação às medidas de uma mídia (imagen ou v
 Asset | Ativo | Em relação a recursos usados em aplicações - web ou desktop - como imagens, fontes, etc | -
 Associative Array | Vetor Associativo | Em relação a tipos/estruturas de dados em linguagens de programação | Sinônimo de dicionário, mapa, tabela de símbolos
 Axys | Eixo | Em relação a planos dimensionais | -
+
+## B
+Termo em inglês | Tradução | Uso | Referências
+--- | --- | --- | ---
 Back-end | *Back-end* | Em relação a programação usada em servidores | Variação: *backend*
 Back-end | Painel Administrativo | Em relação à área administrativa de sistemas | -
 Background | Plano de fundo | Em relação a sobreposição de elementos de design | **Nota**: Muito usado em artigos sobre CSS
