@@ -45,7 +45,16 @@ Bypass | Ignorar | Em relação a *hacking* ou declaração de programação que
 ## C
 Termo | Tradução | Uso | Referências
 --- | --- | --- | ---
-Colo(u)r Burn | Sobreposição de cor | Geralmente relacionado a fotografia, edição de imagens e colorização | [Photoshop Ajuda - Modos de Mesclagem](https://helpx.adobe.com/br/photoshop/using/blending-modes.html)
+Call | Invocar | Em relação a uso de funções e métodos de objetos em programação | **Nota**: Muito usado em artigo de programação; Sinônimo de chamar
+Call | Chamar | Em relação a uso de funções e métodos de objetos em programação | **Nota**: Muito usado em artigo de programação; Sinônimo de invocar
+Callback | *Callback* | Em relação a função usada como parâmetro para outra função | Sinônimo de chamada de retorno
+Callback | Chamada de Retorno | Em relação a função usada como parâmetro para outra função | Sinônimo de *callback*
+Cheatsheet | Planilha de Atalhos | Em relação a tabelas com códigos ou atalhos para alcançar/realizar determinada ação mais rápido | -
+Checkbox | Caixa de Seleção | Em relação a campo de formulário que, ao ser selecionado, um ícone/sinal de "certo" aparece dentro | **Nota**: Muito usado quando o artigo trata de criação de formulários
+Collapse | Rearranjar | Em relação a ajustar posicionamento comparado a um estado inicial | **Nota**: Em relação a grades de design para web
+Collapse | Recolher | Em relação a ajustar posicionamento para fechado comparado a um estado inicial de aberto | -
+Colo(u)r Burn | Sobreposição de cor | Em relação a fotografia, edição de imagens e colorização | [Photoshop Ajuda - Modos de Mesclagem](https://helpx.adobe.com/br/photoshop/using/blending-modes.html)
+Compliant | Compatível | Em relação a seguir regras de um determina manual, guia ou equivalente | -
 
 ## EXPLICAÇÃO
 1. Termos existentes no artigo serão migrados em breve para essa lista para facilitar busca
