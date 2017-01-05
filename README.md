@@ -1,7 +1,10 @@
 # Termos de TI e Design em português do Brasil
-Repositório com termos da área de TI and Design traduzidos para o português e usados nas minhas traduções para o [Envato Tuts+](https://tutsplus.com/authors/erick-patrick), documentos técnicos e livros.
+Repositório com [termos da área de TI and Design](termos.md) traduzidos para o português e usados nas minhas traduções para o [Envato Tuts+](https://tutsplus.com/authors/erick-patrick), documentos técnicos e livros.
 
-Os termos estarão em ordem alfabética e seguirão o formato a seguir:
+## [Lista de Termos](termos.md)
+Como [a lista](termos.md) chegará a ficar grande o suficiente, foi tomada a decisão de [colocá-la em seu próprio arquivo](termos.md). Dessa forma, temos maior controle sobre o que é adicionado ou não [a ela](termos.md).
+
+Os termos estarão em ordem alfabética, inclusive dentro da própria sublista alfabética (letra inicial), e seguirão o formato a seguir:
 
 Termo em inglês | Tradução[1] | Uso[2] | Referências[3]
 --- | --- | --- | ---
