@@ -17,3 +17,5 @@ Colo(u)r Burn | Sobreposição de cor | Geralmente relacionado a fotografia, edi
 Alguns termos poderão ser de conhecimento prévio de alguém com nível avançado ou nativo do idioma e/ou da área, mas isso não invalida sua presença nessa lista, uma vez que alguém que não é acostumado com tradução ou não possui conhecimento vasto da área pode considerar útil vê-lo presente.
 
 Assim, não se intimide em criar **Solicitações de Atualização** (*Pull Requests*) para adição ou pedido/indicação de adição de algum novo termo. Pedimos, apenas, que a escrita dos termos e descrições (tanto dos termos quanto das solicitações de atualização da lista), para que todos compreendam.
+
+Solicitações de atualização são aceitas tanto em português quanto em inglês, desde que esteja bem escrita e siga o que tem escrito nesse documento.
