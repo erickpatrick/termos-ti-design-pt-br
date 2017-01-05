@@ -7,7 +7,7 @@ Termo em inglês | Tradução[1] | Uso[2] | Referências[3]
 --- | --- | --- | ---
 Colo(u)r Burn | Sobreposição de cor | Geralmente relacionado a fotografia, edição de imagens e colorização | [Photoshop Ajuda - Modos de Mesclagem](https://helpx.adobe.com/br/photoshop/using/blending-modes.html)
 
-1. Apenas uma tradução por linha. Cada tradução extra deverá aparecer em uma linha diferente da tabela com seu próprio *Uso* e/ou *Referências*
+1. Apenas uma tradução por linha. Cada tradução extra deverá aparecer em uma linha diferente da tabela com seu próprio *Uso* e/ou *Referências*. Termos mantidos em inglês por qualquer circunstâncias serão apresentados em itálico para indicar que não pertecem ao idioma e chamar atenção
 2. Breve explicação onde (sub-área de TI/Design) cada termo costuma aparecer, gerando contexto para seu uso
 3. Referências de onde as explicações foram retiradas (dicionários, wikis, livros, artigos, etc), assim como possíveis exemplos de uso opcional para novas traduções
 
