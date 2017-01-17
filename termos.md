@@ -34,6 +34,7 @@ Blend | Mesclar | Em relação a misturar elementos de design, especialmente cor
 Blur | Desfoque | Em relação a deixar algo desfocado, embaçado | [Tradução dos menus do Photoshop](https://www.tutoriart.com.br/dicionario-traducao-photoshop-menus/), Tradução das paletas do Photoshop [parte 1](http://www.tutoriart.com.br/dicionario-traducao-photoshop-paletas/), [parte 2](http://www.tutoriart.com.br/dicionario-ingles-portugues-de-photoshop-parte-2-ferramentas/); [1]
 Boilerplate | Base | Em relação a algo usado como ponto inicial | **Nota**: Muito usado em artigos sobre programação; Sinônimo de padrão
 Boilerplate | Padrão | Em relação a algo usado como ponto inicial | **Nota**: Muito usado em artigos sobre programação; Sinônimo de base
+Bootstrap | Iniciar | Em relação criar o ambiente necessário para algo | **Nota**: Muito usado em artigos sobre programação
 Braces | Chaves | Em relação a caractere usado em programação e matemática | **Nota**: Muito usado quando se fala sobre vetores, matrizes e assuntos que envolvem matemática
 Branch | Ramificar | Em relação ao ato de criar uma cópia de base de código em um versionador de código | **Nota**: Muito usado em artigo sobre Git e GitHub
 Branch | Ramificação | Em relação à cópia criada em um versionador de código | **Nota**: Muito usado em artigo sobre Git e GitHub
@@ -43,6 +44,7 @@ Built-in | Integrado | Em relação a algo existente, que vem junto de outra coi
 Bundler | Empacotador | Em relação a geração de arquivos executáveis - para web, desktop ou mobile | **Nota**: Muito usado em artigos sobre Webpack, Gulp, Bundler (Ruby), etc
 Business Expert | Especialista do Negócio | Em relação às pessoas que possuem alto conhecimento em um determinado negócio, área ou produto | **Nota**: Muito usado em artigos sobre Agile, Scrum, Kanban, Domain Driven Design, etc
 Business Rule | Regra do Negócio | Em relação aos requesitos que um determinado negócio, empresa ou produto precisa realizar para ser considerado correto | **Nota**: Muito usado em artigos sobre Agile, Scrum, Kanban, Domain Driven Design, etc
+Buzz | Burburinho | Em relação a algo que discutido no momento | -
 Bypass | Ignorar | Em relação a *hacking* ou declaração de programação que anula outra declaração | **Nota**: Muito usada em artigos sobre *hacking*, segurança, redes de computadores
 
 ## C
@@ -54,11 +56,13 @@ Callback | *Callback* | Em relação a função usada como parâmetro para outra
 Callback | Chamada de Retorno | Em relação a função usada como parâmetro para outra função | Sinônimo de *callback*
 Cheatsheet | Planilha de Atalhos | Em relação a tabelas com códigos ou atalhos para alcançar/realizar determinada ação mais rápido | -
 Checkbox | Caixa de Seleção | Em relação a campo de formulário que, ao ser selecionado, um ícone/sinal de "certo" aparece dentro | **Nota**: Muito usado quando o artigo trata de criação de formulários
+Checkout | Finalizar Compra | Em relação a e-commerce | -
 Closure | *clausura* | Em relação a manutenção de escopo de variáveis/funções | **Nota**: Em relação a programação funcional e JavaScript 
 Collapse | Rearranjar | Em relação a ajustar posicionamento comparado a um estado inicial | **Nota**: Em relação a grades de design para web
 Collapse | Recolher | Em relação a ajustar posicionamento para fechado comparado a um estado inicial de aberto | -
 Colo(u)r Burn | Sobreposição de cor | Em relação a fotografia, edição de imagens e colorização | [Photoshop Ajuda - Modos de Mesclagem](https://helpx.adobe.com/br/photoshop/using/blending-modes.html)
 Compliant | Compatível | Em relação a seguir regras de um determina manual, guia ou equivalente | -
+Constraint | Limitação | - | **Nota**: Muito usado em artigos sobre arquitetura de software e domínio de negócio
 Container | Recipiente | Em relação a item/objeto que guarda algo | **Nota**: Em relação a programação e inversão de dependência; Design
 Container | Container | Em relação a item/objeto que guarda algo | **Nota**: Em relação a programação e inversão de dependência; Design. Essa palavra existe em português em si, porém é um anglicismo
 Content-Aware | Sensível ao conteúdo | Em relação a preenchimento automatico e digital de imagens | **Nota**: Em relação ao recurso do Adobe Photoshop
