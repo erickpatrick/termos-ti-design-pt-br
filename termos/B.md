@@ -16,6 +16,8 @@ Bootstrap | Iniciar | Em relação criar o ambiente necessário para algo | **No
 Braces | Chaves | Em relação a caractere usado em programação e matemática | **Nota**: Muito usado quando se fala sobre vetores, matrizes e assuntos que envolvem matemática
 Branch | Ramificar | Em relação ao ato de criar uma cópia de base de código em um versionador de código | **Nota**: Muito usado em artigo sobre Git e GitHub
 Branch | Ramificação | Em relação à cópia criada em um versionador de código | **Nota**: Muito usado em artigo sobre Git e GitHub
+Breaking Change | Quebra de Compatibilidade | Em relação a código lançado que não será compatível com versões anteriores | **Nota**: Muito usado em artigos sobre programação
+Breaking Change | Mudança Problemática | Em relação a código/aplicativo lançado que não será compatível com versões anteriores  | **Nota**: Muito usado em artigos sobre programação, mas essa tradução ajuda a pessoas de fora da área de TI entenderem melhor
 Buffer | Dados Temporários | Em relação a dados armazenados em memória, voláteis | -
 Buffer | Armazenador de Dados Temporários | Em relação ao mecanismo que armazenados dados em memória, de forma volátil | -
 Built-in | Integrado | Em relação a algo existente, que vem junto de outra coisa | 
