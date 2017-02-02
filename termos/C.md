@@ -3,8 +3,10 @@ Termo | Tradução | Uso | Referências
 --- | --- | --- | ---
 Call | Invocar | Em relação a uso de funções e métodos de objetos em programação | **Nota**: Muito usado em artigo de programação; Sinônimo de chamar
 Call | Chamar | Em relação a uso de funções e métodos de objetos em programação | **Nota**: Muito usado em artigo de programação; Sinônimo de invocar
+Call to Action | Chamada à Ação | Em relação a botões ou áreas de design que atraem atenção de usuários | **Nota**: Muito usado em artigos de design, HTML e CSS
 Callback | *Callback* | Em relação a função usada como parâmetro para outra função | Sinônimo de chamada de retorno
 Callback | Chamada de Retorno | Em relação a função usada como parâmetro para outra função | Sinônimo de *callback*
+Caveat | Ressalva | Em relação a contrapontos (prós e contra) | -
 Cheatsheet | Planilha de Atalhos | Em relação a tabelas com códigos ou atalhos para alcançar/realizar determinada ação mais rápido | -
 Checkbox | Caixa de Seleção | Em relação a campo de formulário que, ao ser selecionado, um ícone/sinal de "certo" aparece dentro | **Nota**: Muito usado quando o artigo trata de criação de formulários
 Checkout | Finalizar Compra | Em relação a e-commerce | -
