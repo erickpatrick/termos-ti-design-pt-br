@@ -26,6 +26,3 @@ Business Expert | Especialista do Negócio | Em relação às pessoas que possue
 Business Rule | Regra do Negócio | Em relação aos requesitos que um determinado negócio, empresa ou produto precisa realizar para ser considerado correto | **Nota**: Muito usado em artigos sobre Agile, Scrum, Kanban, Domain Driven Design, etc
 Buzz | Burburinho | Em relação a algo que discutido no momento | -
 Bypass | Ignorar | Em relação a *hacking* ou declaração de programação que anula outra declaração | **Nota**: Muito usada em artigos sobre *hacking*, segurança, redes de computadores
-
-## EXPLICAÇÃO
-1. Termos existentes no artigo serão migrados em breve para essa lista para facilitar busca
