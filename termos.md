@@ -1,3 +1,6 @@
+# Especiais
+- [Ferramentas Adobe](termos/adobe-tools.md)
+
 # Índice
 - [A](termos/A.md)
 - [B](termos/B.md)
