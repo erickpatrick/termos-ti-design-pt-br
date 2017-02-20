@@ -9,7 +9,7 @@ Backslash | Barra Invertida | Em relação a tecla de teclados | -
 Bind | Vincular | Em relação a criar elos entre elementos | **Nota**: Muito usado em artigos sobre JavaScript
 Binding | Ligação | Em relação a criar elos entre elementos | **Nota**: Muito usado em artigos de design
 Blend | Mesclar | Em relação a misturar elementos de design, especialmente cores | **Nota**: Muito usado em artigos sobre Adobe Photoshop, Adobe Illustrator, Sketch, entre outros
-Blur | Desfoque | Em relação a deixar algo desfocado, embaçado | [Tradução dos menus do Photoshop](https://www.tutoriart.com.br/dicionario-traducao-photoshop-menus/), Tradução das paletas do Photoshop [parte 1](http://www.tutoriart.com.br/dicionario-traducao-photoshop-paletas/), [parte 2](http://www.tutoriart.com.br/dicionario-ingles-portugues-de-photoshop-parte-2-ferramentas/); [1]
+Blur | Desfoque | Em relação a deixar algo desfocado, embaçado | [Ver lista de traduções das ferramentas da Adobe](https://github.com/erickpatrick/termos-ti-design-pt-br/blob/master/termos/adobe-tools.md)
 Boilerplate | Base | Em relação a algo usado como ponto inicial | **Nota**: Muito usado em artigos sobre programação; Sinônimo de padrão
 Boilerplate | Padrão | Em relação a algo usado como ponto inicial | **Nota**: Muito usado em artigos sobre programação; Sinônimo de base
 Bootstrap | Iniciar | Em relação criar o ambiente necessário para algo | **Nota**: Muito usado em artigos sobre programação
