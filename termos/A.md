@@ -2,6 +2,7 @@
 Termo | Tradução | Uso | Referências
 --- | --- | --- | ---
 Active Record | *Active Record* | Em relação a tipos de objetos de programação que lidam com base de dados | Mantido em inglês uma vez que o termo já é usado dessa forma em diversas fontes, desde a Wikipedia a livros técnicos da área
+Add-on | Complemento | Em relação a algo que se adiciona para complementar | -
 Advocate | Defensor | Em relação a quem propaga ideias de um certo assunto | **Nota**: Muito usado em cargos de grandes empresas para funcionários que tem o trabalho de espalhar as ideias da empresa, geralmente conhecidos como *Developer Advocate*
 Aggregate | Agregado | Em relação a banco de dados ou conjuntos de dados (coleções) | -
 Aggregate | Agregado | Em relação a composição de objetos | -
